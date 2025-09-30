@@ -8,7 +8,7 @@ This project is developed and maintained by **Twerse inc.**
 
 ## 📖 Introduction
 - **RSON**: an open, universal data format designed as a successor to JSON/GeoJSON.  
-- **OrixDB**: the reference fractal database engine, optimized for storing, querying, and emerging dimensional data.  
+- **OrixDB**: the reference SEG6 fractal database engine, optimized for storing, querying, and emerging dimensional data.  
 
 Our model is based on **Shared-Code**:  
 - **Open** for universal adoption (RSON).  
@@ -23,7 +23,9 @@ Our model is based on **Shared-Code**:
   - Modifications may be kept internal; **public redistributions must be contributed back** through official Twerse infrastructure.  
 
 - [`LICENSE.md`](./LICENSE.md) → **Twerse Shared-Code Valorized License**  
-  - Commercial use requires a license according to the tiered schedule (startups, SMEs, enterprises).  
+  - Covers all organizational and commercial use.  
+  - Includes a tiered schedule (startups, SMEs, enterprises).  
+  - **Startups < $500k revenue** qualify under the *Free Valorized Tier*.  
   - **Startups < $1M revenue and < 10 employees** qualify for the *Startup Tier*:  
     - **First year free**, then $99/month per active server.  
   - “Per active server” means any server operated by the user outside of Twerse’s official hosted services.  
@@ -37,8 +39,10 @@ Our model is based on **Shared-Code**:
 ---
 
 ## 📊 Commercial Licensing (OrixDB)
-- **Free Tier (Open)** → individuals, self-employed, startups < $500k annual revenue.  
-- **Startup Tier (Valorized)** → < $1M annual revenue, < 10 employees:  
+
+- **Free Tier (Open)** → individuals and self-employed only (non-commercial).  
+- **Free Tier (Valorized)** → startups < $500k annual revenue.  
+- **Startup Tier (Valorized)** → startups < $1M annual revenue, < 10 employees:  
   - **First year free**, then $99/month per active server.  
 - **SMEs** → $999/month per active server (< $50M revenue).  
 - **Enterprises** → $9,999/month per cluster (up to 10 servers).  
@@ -65,6 +69,7 @@ Licensing model inspired by **Elastic License 2.0** and **SSPL**, adapted to the
 - Official site: [https://orixdb.com](https://orixdb.com)  
 - Documentation (coming soon)  
 - Community (coming soon)  
+
 
 
 
