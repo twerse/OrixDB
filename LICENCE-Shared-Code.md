@@ -1,4 +1,4 @@
-# Twerse Open Shared-Code License v1.1 (Final)
+# Twerse Shared-Code License v1.1 (Final)
 
 **Copyright © Twerse inc.**  
 
