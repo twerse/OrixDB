@@ -1,4 +1,4 @@
-# OrixDB Shared-Code Valorized License v1.0 (Draft)
+# OrixDB Shared-Code Valorized License v1.0
 
 **Copyright © Twerse Shared Enterprise (51% Portfolio Company, 49% Contributor Community)**
 
