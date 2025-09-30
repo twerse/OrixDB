@@ -1,6 +1,5 @@
-# Twerse Shared-Code Valorized License v1.2 (Draft)
+# Twerse Shared-Code Valorized License v1.2
 
-**Copyright © Twerse inc. (51% 9280-4061 Québec inc., 49% Contributor Community)**  
 
 ---
 
