@@ -8,7 +8,7 @@ This project is developed and maintained by **Twerse inc.**
 
 ## 📖 Introduction
 - **RSON**: an open, universal data format designed as a successor to JSON/GeoJSON.  
-- **OrixDB**: the reference SEG6 fractal database engine, optimized for storing, querying, and emerging dimensional data.  
+- **OrixDB**: the reference fractal database engine, optimized for storing, querying, and emerging dimensional data.  
 
 Our model is based on **Shared-Code**:  
 - **Open** for universal adoption (RSON).  
