@@ -1,4 +1,4 @@
-# Twerse Shared Enterprise Charter v1.5 (Final)
+# Twerse inc. Charter v1.5
 
 **Copyright © Twerse Shared Enterprise**
 
