@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/61fcc9f2-c2d9-4ab8-936c-00683f2dcc23" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/61fcc9f2-c2d9-4ab8-936c-00683f2dcc23" />
 
 
 Welcome to the official repository of **OrixDB** and the **RSON** format.  
