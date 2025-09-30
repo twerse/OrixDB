@@ -1,6 +1,6 @@
-# Twerse Valorized License v1.1 (Final)
+# Twerse Shared-Code Valorized License v1.2 (Draft)
 
-**Copyright © Twerse inc. 
+**Copyright © Twerse inc. (51% 9280-4061 Québec inc., 49% Contributor Community)**  
 
 ---
 
@@ -17,6 +17,7 @@ This License complements the **Open Shared-Code License v1.1**, which governs no
 - **“Contributor”**: any person whose modifications or improvements are accepted into a Twerse project.  
 - **“User”**: any person or organization using the licensed software.  
 - **“Commercial Use”**: any use that generates direct or indirect revenue, including hosting, SaaS, resale, integration into products, or organizational internal use beyond individuals/self-employed.  
+- **“Per Active Server”**: any server instance (physical, virtual, or cloud) operated by the User **outside of Twerse’s official hosted services**.  
 
 ---
 
@@ -42,19 +43,20 @@ This License complements the **Open Shared-Code License v1.1**, which governs no
    - Upgrading to a Valorized tier required when serving clients or scaling.  
 
 2. **Startups**  
-   - Annual revenue < $1M, < 10 employees.  
-   - Fee: $99/month per active server.  
+   - Criteria: annual revenue < $1M, < 10 employees.  
+   - Fee: $99/month **per active server**.  
    - Cap: 1M RSON/OrixDB requests per month.  
+   - **First year of commercial use is free.**  
 
 3. **SMEs**  
-   - Annual revenue < $50M.  
-   - Fee: $999/month per active server.  
+   - Criteria: annual revenue < $50M.  
+   - Fee: $999/month **per active server**.  
    - Cap: 50M requests per month.  
 
 4. **Enterprises**  
-   - Annual revenue ≥ $50M or > 50M requests/month.  
+   - Criteria: annual revenue ≥ $50M or > 50M requests/month.  
    - Fee: $9,999/month per cluster (up to 10 servers).  
-   - Extension: +$999/month per additional server.  
+   - Extension: +$999/month **per additional server**.  
 
 ---
 
@@ -96,7 +98,7 @@ This license is inspired by **Elastic License 2.0** and **SSPL**, adapted to the
 - OrixDB is the **reference fractal database engine** of RSON.  
 - **Commercial Use**:  
   - Hosting, SaaS, or integration into products requires a Valorized license (Section 5).  
-  - Licensing fees apply per server, per cluster, or per usage cap.  
+  - Licensing fees apply **per active server**, defined as any server operated by the User outside of Twerse’s hosted services.  
 - Restrictions: OrixDB may not be offered “as-a-service” without explicit Twerse licensing.  
 - Governance: architecture, updates, and official distributions remain under the authority of **Twerse inc.**, with contributions integrated via the 49% DAO.  
 
