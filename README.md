@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/orix-pageweb-txtb.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/orix-pageweb-txtn.png">
-  <img alt="RSON Logo" src="assets/logo-light.svg" width="120">
+  <img alt="RSON Logo" src="assets/logo-light.svg" width="300">
 </picture>
 
 
