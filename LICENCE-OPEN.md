@@ -1,6 +1,6 @@
-# Twerse Open Shared-Code License v1.0 (Draft)
+# Twerse Open Shared-Code License v1.1 (Final)
 
-**Copyright © Twerse inc. (51% 9280-4061 Québec inc., 49% Contributor Community)**  
+**Copyright © Twerse inc.**  
 
 ---
 
@@ -31,13 +31,23 @@ It guarantees free adoption for non-commercial use while maintaining the **share
 
 ---
 
-## 5. Governance
+## 5. Internal Commercial Users
+- Individuals and self-employed workers may use Twerse projects **internally, at no cost**, including in professional contexts.  
+- Any other organizational or multi-user internal use requires a **Shared-Code Valorized license** (per-seat or per-server).  
+- If such organizations provide services or products to **external clients**, they must:  
+  1. Use Twerse’s **official billing infrastructure** to register and track such usage.  
+  2. Apply the service fees and honoraria **defined by Twerse inc.**, either directly or through approved integrations with their own billing systems.  
+- Failure to comply may trigger **automatic service interruption** through Twerse’s monitoring and control mechanisms.  
+
+---
+
+## 6. Governance
 - **Twerse inc.** retains responsibility for the official evolution of all projects under this license.  
 - Community contributions are integrated through the governance charter (51% exclusive control via Special Shares, 49% Contributor Community).  
 
 ---
 
-## 6. Warranty
+## 7. Warranty
 All code, formats, and tools are provided **“as is”**, without warranties of any kind.  
 Twerse inc. and contributors are not liable for damages resulting from their use.  
 
@@ -63,8 +73,29 @@ Twerse inc. and contributors are not liable for damages resulting from their use
 
 ---
 
-## 7. Jurisdiction
+## 8. Jurisdiction
 This License is governed by the **laws of Québec, Canada**.  
 Disputes shall be resolved by **binding arbitration in Montréal**, in French or English.  
-In case of conflict, the **Twerse Charter v1.6 prevails**.  
+In case of conflict, the **Twerse Charter v1.6 prevails**, and acceptance of this License implies **acceptance of the Charter**.  
+
+---
+
+## 9. Clarifications
+1. **Internal Use**: Free internal use is strictly limited to **individuals and self-employed workers**. Any organizational, team, or enterprise use requires a Valorized license.  
+2. **Detection and Enforcement**: Twerse may enforce compliance through **automated monitoring and service interruption** in case of misuse.  
+3. **External Clients**: If internal tools are extended to external clients (including subsidiaries or affiliates), this automatically falls under **Valorized licensing (per-seat or per-server)**.  
+4. **Extensions**: Internal modifications or plugins not redistributed are allowed under this license. Redistribution requires compliance with license terms.  
+5. **Third-Party Licenses**: Contributions under incompatible licenses (e.g., GPL-only without exceptions) are not accepted. Contributors guarantee that their submissions do not introduce conflicting license obligations.  
+6. **Authority of Twerse inc.**: In case of doubt regarding classification of a use case, **Twerse inc. retains final authority** to determine whether it falls under Open or Valorized licensing.  
+
+---
+
+## 10. Final Clarifications
+1. **Definition of Individual Use**: “Individuals and self-employed workers” means a single natural person acting in their own name. Incorporated consultants, cooperatives, or any legal entity employing more than one person are considered **organizations** and require a Valorized license.  
+2. **Service Interruption Procedure**: Users subject to interruption will receive notice within 7 days and may contest. Services remain suspended until compliance is restored.  
+3. **Subsidiaries and Affiliates**: Use by subsidiaries, affiliates, or related entities is considered **external use** and requires a Valorized license.  
+4. **Redistribution Obligation**: Any public redistribution, whether open-source or commercial, must remain under this License or a Valorized license.  
+5. **Third-Party Compatibility**: Users must ensure compatibility with third-party libraries and obtain additional permissions if required. Twerse inc. may reject contributions introducing license conflicts.  
+6. **Charter Supremacy**: Use of Twerse projects under this License constitutes explicit acceptance of the **Twerse Charter v1.6**, which prevails over any conflicting terms.  
+
 
