@@ -58,6 +58,7 @@ This charter defines the governance structure, contributor rights, continuity me
   - **Administrators and Client Service Providers**.  
   - **Future categories** as defined by Twerse.  
 
+
 ---
 
 ## 6. Succession and Buyout Mechanism
@@ -94,6 +95,14 @@ This charter defines the governance structure, contributor rights, continuity me
 5. **Status of Tokens After Buyout**: converted into **legal shares**, held through a **Voting Trust** to preserve DAO governance.  
 6. **Premature Death**: if the shareholder dies before the Reserve Fund reaches 50% of target, heirs receive a **minimum 20% immediate payment**, priority over rebates.  
 7. **Tax Treatment**: payments pass through a **testamentary trust**, ensuring optimal taxation and continuity.  
+
+### 6.5 Voluntary Exit by 9280
+
+- **9280-4061 Québec inc.** may, at its sole discretion, trigger the Buyout Mechanism defined in Section 6 at any time, without requiring proof of death, bankruptcy, or other triggering events.  
+- The Buyout Price shall be calculated according to Section 6.2 (3× average net revenues of the last 3 years, subject to floor and cap).  
+- Payment shall be made following the same rules as in Section 6.3 and 6.4: 20% upfront from the Buyout Reserve Fund, balance in maximum 5 annual installments, with indexed interest.  
+- Upon activation of the Voluntary Exit, the Special Class Twerse Shares shall be automatically transferred to the 49% Collective, and Contributor Tokens shall be converted into legal shares as described in Section 6.4.5.  
+
 
 ---
 
