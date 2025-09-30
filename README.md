@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **OrixDB** and the **RSON** format.  
 This project is developed and maintained by **Twerse inc.**  
-(51% 9280-4061 Québec inc., 49% Contributor Community).  
+ 
 
 ---
 
