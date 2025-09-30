@@ -1,82 +1,53 @@
-# OrixDB Shared-Code Valorized License v1.0
+# Open Shared-Code License – Twerse inc. v1.6
 
-**Copyright © Twerse Shared Enterprise (51% Portfolio Company, 49% Contributor Community)**
-
----
-
-## 1. Preamble
-This license governs the use of **OrixDB** (“the Software”).  
-Its purpose is to enable broad adoption while ensuring fair value return to the contributors of **Twerse Shared Enterprise**.  
-
-**OrixDB** is the reference implementation of the open **RSON** format, which is released separately under the **Shared-Code Open License**.  
+## 1. Definitions
+- **Twerse inc.**: the corporation owning the intellectual property and trademarks related to RSON, OrixDB, and associated projects.  
+- **Contributor**: any individual or entity contributing code, design, documentation, or other work under this License.  
+- **Contributor Token**: a symbolic and economic right defined in the Twerse inc. Charter v1.6.  
+- **Charter**: the binding governance document of Twerse inc. (version v1.6 or later).  
 
 ---
 
-## 2. Definitions
-- **“Twerse”**: the entity holding copyright over OrixDB.  
-- **“RSON”**: the universal open data format defined and maintained by Twerse.  
-- **“User”**: any person or organization using OrixDB.  
-- **“Commercial Use”**: any use that generates direct or indirect revenue, including hosting, SaaS, resale, or product integration.  
-- **“Contributor”**: any person whose modifications or improvements are accepted into OrixDB.  
+## 2. Grant of Rights
+- Code licensed under this License is **free to use, modify, and distribute**, subject to the conditions below.  
+- **Copyright and governance remain with Twerse inc.**, as defined in the Charter.  
+- Contributors accept that all works contributed are automatically integrated under the collective framework described in the Charter.  
 
 ---
 
-## 3. Granted Rights
-- Free use of OrixDB for **prototyping, education, research, and non-commercial projects**.  
-- Permission to read, modify, and redistribute the source code, subject to this license.  
-- Commercial use permitted only under the licensing tiers defined in Section 5.  
+## 3. Economic Rights
+- Contributors may receive Contributor Tokens, granting them access to the **49% economic pool** of Twerse inc. as defined in the Charter.  
+- Token ownership does not grant direct copyright ownership; it grants **rebates and symbolic ownership** under the Charter.  
+- Token rules (issuance, permanence, revocation, death, non-transferability) are exclusively governed by the Charter.  
 
 ---
 
-## 4. User Obligations
-- All redistributions of OrixDB must include this license.  
-- Modifications must be submitted to Twerse’s official infrastructure to be recognized as contributions.  
-- Contributors assign economic rights to Twerse in exchange for a proportional share of the **49% collective pool**.  
-- Any commercial use must be declared and paid according to the applicable tier.  
+## 4. Governance
+- **9280-4061 Québec inc.** holds **51% permanent control** and retains exclusive voting rights through the **Special Class Twerse Shares**, as defined in the Charter.  
+- The **49% Collective** participates economically and symbolically, with oversight via the DAO Board.  
+- This License inherits all definitions, restrictions, and succession rules from the Charter. In case of conflict, the **Charter prevails**.  
 
 ---
 
-## 5. Commercial Licensing Tiers
-1. **Free Use (Shared-Code Open)**  
-   - Startups < 12 months old, annual revenue < $100k.  
-   - Limit: 1 server / 10,000 RSON requests per month.  
-   - Cost: $0.  
-
-2. **Startups**  
-   - Criteria: annual revenue < $1M, < 10 employees.  
-   - Fee: $99/month per active server.  
-   - Cap: 1M RSON requests/month.  
-
-3. **SMEs**  
-   - Criteria: annual revenue < $50M.  
-   - Fee: $999/month per active server.  
-   - Cap: 50M requests/month.  
-
-4. **Enterprises**  
-   - Criteria: annual revenue ≥ $50M or > 50M requests/month.  
-   - Fee: $9,999/month per cluster (up to 10 servers).  
-   - Extension: +$999/month per additional server.  
+## 5. Redistribution
+- Redistribution of the code must retain this License in full.  
+- Commercial services built on this code must comply with the billing, rebate, and distribution rules of Twerse inc., as defined in the Charter.  
 
 ---
 
-## 6. Restrictions
-- Prohibited to offer **OrixDB** as a hosted service (DBaaS) without an active license.  
-- Prohibited to redistribute OrixDB under another name.  
-- Prohibited to patent any part of OrixDB or RSON.  
+## 6. Warranty and Liability
+- Code is provided **“as is”**, without warranty of any kind.  
+- Twerse inc. and Contributors are not liable for any damages arising from use, modification, or distribution of the code.  
 
 ---
 
-## 7. Governance
-- **Twerse** retains responsibility for the official evolution of OrixDB and RSON.  
-- Strategic decisions follow the 51% Portfolio Company / 49% Contributor Community model.  
+## 7. Amendments
+- This License is tied to the **Twerse inc. Charter v1.6**.  
+- Any amendment to the Charter automatically updates the License.  
+- Only **9280-4061 Québec inc.** may amend the Charter and, by extension, this License, until a buyout under Section 6 of the Charter occurs.  
 
 ---
 
-## 8. Warranty and Liability
-OrixDB is provided **“as is”**, without warranties of any kind.  
-Twerse and contributors are not liable for damages resulting from its use.  
-
----
-
-## 9. Compatibility
-This license is inspired by the **Elastic License 2.0** and **SSPL**, adapted to the **Twerse Shared-Code** model.  
+## 8. Jurisdiction
+- This License is governed by the **laws of Québec, Canada**.  
+- Disputes shall be resolved by **binding arbitration in Montréal**, in French or English.  
