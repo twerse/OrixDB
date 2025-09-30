@@ -20,11 +20,11 @@ Our model is based on **Shared-Code**:
 ## 📜 Licenses
 - [`LICENSE-OPEN.md`](./LICENSE-OPEN.md) → **Twerse Open Shared-Code License**  
   - Free for individuals, self-employed workers, research, and non-commercial use.  
-  - Modifications must be contributed back through official Twerse infrastructure.  
+  - Modifications may be kept internal; **public redistributions must be contributed back** through official Twerse infrastructure.  
 
 - [`LICENSE.md`](./LICENSE.md) → **Twerse Shared-Code Valorized License**  
   - Commercial use requires a license according to the tiered schedule (startups, SMEs, enterprises).  
-  - Internal organizational use beyond individuals/self-employed also falls under Valorized.  
+  - **Startups < $500k annual revenue** qualify under the *Free Valorized Tier 1*.  
   - Prohibited to offer OrixDB as a hosted service without an active license.  
 
 - [`CHARTER.md`](./CHARTER.md) → **Twerse Charter (51/49)**  
@@ -35,7 +35,7 @@ Our model is based on **Shared-Code**:
 ---
 
 ## 📊 Commercial Licensing (OrixDB)
-- **Free Tier (Open)** → individuals and self-employed, startups < $100k annual revenue.  
+- **Free Tier (Valorized)** → individuals, self-employed, startups < $500k annual revenue.  
 - **Startups** → $99/month per active server (< $1M revenue, < 10 employees).  
 - **SMEs** → $999/month per active server (< $50M revenue).  
 - **Enterprises** → $9,999/month per cluster (up to 10 servers).  
