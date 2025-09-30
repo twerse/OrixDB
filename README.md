@@ -1,4 +1,8 @@
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/61fcc9f2-c2d9-4ab8-936c-00683f2dcc23" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/orix-pageweb-txtb.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/orix-pageweb-txtn.png">
+  <img alt="RSON Logo" src="assets/logo-light.svg" width="120">
+</picture>
 
 
 Welcome to the official repository of **OrixDB** and the **RSON** format.  
